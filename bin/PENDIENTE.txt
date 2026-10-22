@@ -1,0 +1,15 @@
+Proyecto PlayGT - avance parcial
+
+Hecho:
+- interfaces Reproducible y Descargable
+- clase abstracta Contenido
+- Cancion, Podcast y LibroDigital
+- listas y reproduccion
+- suma de duraciones
+
+Por hacer:
+- terminar la suma de espacioTotalMB (ahora regresa 0)
+- agregar Playlist con Iterable e Iterator
+- implementar Comparable en Contenido
+- ordenar la Playlist y probarlo en Main
+- mejorar formato de los tiempos al reproducir
